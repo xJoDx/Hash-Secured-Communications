@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Request Sender</string>
+    <string name="BTN_send_GET">Send GET request</string>
+    <string name="BTN_send_POST">Send POST request</string>
+    <string name="BTN_clear_hosts">Clear all hosts memory</string>
+    <string name="TXT_TargetA">Target A</string>
+    <string name="TXT_TargetB">Target B</string>
+    <string name="TXT_Base_Middle">This will display if it succeeded !</string>
+</resources>
