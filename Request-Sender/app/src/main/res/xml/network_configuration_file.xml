@@ -6,6 +6,5 @@
             <certificates src="@raw/my_serv"/>
             <certificates src="@raw/my_ca"/>
         </trust-anchors>
-        <pin digest="SHA-256">b/2/p1j+GFFzNyfI4eo8SeqI6T1yolvn+9FsH7SAYm0K</pin>
     </domain-config>
 </network-security-config>
