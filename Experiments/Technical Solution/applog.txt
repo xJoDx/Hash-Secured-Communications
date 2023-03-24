@@ -1,0 +1,35 @@
+
+[I] - 19 mars 2023 23:04:48 - Activity started
+[I] - 19 mars 2023 23:08:13 - Activity started
+[I] - 19 mars 2023 23:32:41 - Activity started
+[I] - 19 mars 2023 23:33:50 - Activity started
+[I] - 19 mars 2023 23:34:53 - Activity started
+[I] - 19 mars 2023 23:36:27 - Activity started
+[I] - 19 mars 2023 23:37:19 - Activity started
+[I] - 20 mars 2023 00:46:28 - Activity started
+[I] - 20 mars 2023 00:47:02 - Activity started
+[I] - 20 mars 2023 21:54:17 - Activity started
+[I] - 20 mars 2023 22:28:29 - Activity started
+[I] - 20 mars 2023 22:47:44 - Activity started
+[I] - 20 mars 2023 23:26:18 - Activity started
+[I] - 21 mars 2023 01:20:00 - Activity started
+[E] - 21 mars 2023 01:20:11 - null
+[E] - 21 mars 2023 01:20:18 - java.net.ConnectException: Failed to connect to /192.168.0.17:5000
+[I] - 23 mars 2023 00:37:36 - Activity started
+[E] - 23 mars 2023 00:37:52 - javax.net.ssl.SSLHandshakeException: java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
+[E] - 23 mars 2023 00:38:31 - javax.net.ssl.SSLHandshakeException: java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
+[I] - 23 mars 2023 00:49:16 - Activity started
+[E] - 23 mars 2023 00:49:34 - javax.net.ssl.SSLHandshakeException: java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
+[I] - 23 mars 2023 00:49:59 - Activity started
+[E] - 23 mars 2023 00:50:15 - null
+[E] - 23 mars 2023 00:50:17 - javax.net.ssl.SSLHandshakeException: java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
+[E] - 23 mars 2023 00:50:59 - javax.net.ssl.SSLHandshakeException: java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
+[I] - 23 mars 2023 00:57:57 - Activity started
+[I] - 23 mars 2023 00:57:59 - Activity started
+[E] - 23 mars 2023 00:58:51 - javax.net.ssl.SSLHandshakeException: java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
+[I] - 23 mars 2023 01:02:31 - Activity started
+[E] - 23 mars 2023 01:02:42 - javax.net.ssl.SSLHandshakeException: java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
+[I] - 23 mars 2023 01:03:00 - Activity started
+[I] - 23 mars 2023 01:57:18 - Activity started
+[E] - 23 mars 2023 01:57:28 - javax.net.ssl.SSLHandshakeException: java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
+[E] - 23 mars 2023 01:57:33 - javax.net.ssl.SSLHandshakeException: java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
